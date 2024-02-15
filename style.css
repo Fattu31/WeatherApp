@@ -62,6 +62,7 @@ input[type="text"]{
 	color: brown;
 	font-family: Arial Black;
 	font-size: 20px;
+	font-variant: small-caps;
 }
 .measurement{
 	font-family: sans-serif;
